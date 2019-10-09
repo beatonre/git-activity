@@ -36,7 +36,7 @@ Name, Email, and Website URL
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
-    * Website: 
+    * Website: http://eve.kean.edu/~beatonre/Project1/BandPage2.html
  
  * Rinesh Patel
    * Email: paerine@kean.edu
